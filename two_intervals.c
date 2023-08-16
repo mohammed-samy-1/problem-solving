@@ -3,7 +3,6 @@
 //int main(void) {
 //    int x1, y1, x2, y2 ;
 //
-//    char op;
 //    scanf("%i %i %i %i", &x1, &y1, &x2, &y2);
 //    if (x1 >= x2 && x1 <= y2) {
 //        if (y1 < y2) {
